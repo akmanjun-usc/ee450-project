@@ -221,7 +221,6 @@ Slots 5 and 9 are treated as peak periods and receive a `1.5x` price multiplier.
 ├── spaces.txt
 ├── Makefile
 ├── README.txt
-└── ee450_Manjunath_Abhishek.tar.gz
 ```
 
 ## Notes and limitations
