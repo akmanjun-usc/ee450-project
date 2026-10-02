@@ -1,0 +1,16 @@
+obj/
+exec/
+
+# Compiled executables
+client
+serverM
+serverA
+serverR
+serverP
+
+# Build artifacts and packaged submissions
+*.o
+*.tar.gz
+
+# macOS metadata
+.DS_Store
